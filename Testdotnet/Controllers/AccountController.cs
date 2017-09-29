@@ -20,7 +20,7 @@ namespace Testdotnet.Controllers
 
         public AccountController()
         {
-
+            // comment
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
